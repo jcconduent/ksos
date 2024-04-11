@@ -1,0 +1,14 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "envksos.ps1",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
